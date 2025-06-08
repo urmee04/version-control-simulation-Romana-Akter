@@ -21,9 +21,9 @@ I followed the follwing steps to complete the pull request
 
 - On the Compare page:
 
-Compare branch: review/main
+  1. Compare branch: review/main
 
-base branch: main
+  2. base branch: main
 
 - Click “Create pull request”
 
